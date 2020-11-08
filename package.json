@@ -1,0 +1,21 @@
+{
+    "name": "wine-bar-monokai",
+    "displayName": "Wine Bar Monokai",
+    "description": "Monokai token colors with wine and brown palette for the workbench, to give you a relaxed yet elegant coding atmosphere. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wine Bar Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wine Bar Monokai-color-theme.json"
+            }
+        ]
+    }
+}
