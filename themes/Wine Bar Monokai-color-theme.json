@@ -8,7 +8,7 @@
 		"errorForeground": "#fc618d",
 		"focusBorder": "#ffffff",//"#69676c",
 		//"contrastBorder": "#ffffff",//"#8b8b8b",
-		"contrastActiveBorder": "#f7f7f7",
+		//"contrastActiveBorder": "#f7f7f7",
 		"selection.background": "#1c00c3",//"#363537",//monokai
 		"widget.shadow": "#000000",//"#131313", //monokai
 		"editorWidget.resizeBorder": "#ff0000",
@@ -205,9 +205,12 @@
 		"activityBar.background": "#110802",//"#131313", //monokai
 		"activityBar.foreground": "#fff8f1",//"#b9b8ba", //monokai
 		"activityBar.border": "#110802",//"#131313",//monokai
-		//"activityBar.dropBackground": "#191919bf",
 		"activityBarBadge.background": "#fce566", //monokai //"#007acc" //default
 		"activityBarBadge.foreground": "#222222", //monokai
+		//"activityBar.activeBorder": "#ff0000",
+		//"activityBar.activeBackground": "#ff0000",
+		//"activityBar.activeFocusBorder": "#ff0000",
+		//"activityBar.dropBorder": "#ff0000",
 
 		"sideBar.background": "#4e321a", //"#222222",//monokai
 		"sideBar.foreground": "#fff8f1",//"#b9b8ba", //monokai
